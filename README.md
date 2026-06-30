@@ -220,10 +220,14 @@ CHFOA must be deployed with:
 
 ## 11. References (Public Sources)
 
-1. Sri Amit Ray, **Compassionate AI Architecture (CAIA): Complete Framework**, amitray.com.
-2. Compassionate AI Lab – Sri Amit Ray's compassionate AI research initiatives.
-3. CompassionateAI Foundation, **Teachings of Sri Amit Ray**.
-4. Human-centered Compassionate AI architecture overview (Sri Amit Ray CAIA) on GitHub.
+1. Sri Amit Ray. **Compassionate AI Architecture (CAIA): Complete Framework**. Amit Ray.  
+   <https://amitray.com/compassionate-ai-architecture/>
+2. **CompassionateAI Foundation for Global Peace**. Official website.  
+   <https://compassionateai.com/>
+3. **CompassionateAI Research**. CompassionateAI Foundation for Global Peace.  
+   <https://compassionateai.com/research/>
+4. **About the CompassionateAI Foundation**. Teachings and mission of Sri Amit Ray.  
+   <https://compassionateai.com/about/>
 5. Sri Amit Ray, **Human Flourishing Optimization Algorithm (HFOA)** article.
 6. Media and podcasts on **Sri Amit Ray's 25 Algorithms for Protecting Humanity and Future Generations**.
 7. Human flourishing benchmarks and global AI flourishing initiatives.
