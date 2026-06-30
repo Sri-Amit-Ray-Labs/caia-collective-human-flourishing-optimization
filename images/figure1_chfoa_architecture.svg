@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100%" viewBox="0 0 980 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CHFOA architecture">
+    <rect x="25" y="40" width="150" height="50" rx="8" fill="#eaf2fb" stroke="#1f4e79"/>
+    <text x="100" y="70" text-anchor="middle" font-family="Times New Roman" font-size="16">Context</text>
+
+    <rect x="210" y="40" width="150" height="50" rx="8" fill="#f5efe2" stroke="#6b4e16"/>
+    <text x="285" y="70" text-anchor="middle" font-family="Times New Roman" font-size="16">Base AI</text>
+
+    <rect x="395" y="40" width="150" height="50" rx="8" fill="#e7f5e7" stroke="#2d6a2d"/>
+    <text x="470" y="70" text-anchor="middle" font-family="Times New Roman" font-size="16">FSM</text>
+
+    <rect x="580" y="40" width="150" height="50" rx="8" fill="#f4e7f7" stroke="#7a2b8a"/>
+    <text x="655" y="70" text-anchor="middle" font-family="Times New Roman" font-size="16">CEE / ECL</text>
+
+    <rect x="765" y="40" width="180" height="50" rx="8" fill="#eef0f5" stroke="#444"/>
+    <text x="855" y="70" text-anchor="middle" font-family="Times New Roman" font-size="16">CDI / ACLL</text>
+
+    <line x1="175" y1="65" x2="210" y2="65" stroke="#333" stroke-width="2"/>
+    <polygon points="210,65 200,60 200,70" fill="#333"/>
+    <line x1="360" y1="65" x2="395" y2="65" stroke="#333" stroke-width="2"/>
+    <polygon points="395,65 385,60 385,70" fill="#333"/>
+    <line x1="545" y1="65" x2="580" y2="65" stroke="#333" stroke-width="2"/>
+    <polygon points="580,65 570,60 570,70" fill="#333"/>
+    <line x1="730" y1="65" x2="765" y2="65" stroke="#333" stroke-width="2"/>
+    <polygon points="765,65 755,60 755,70" fill="#333"/>
+
+    <rect x="255" y="155" width="470" height="90" rx="10" fill="#fcfcfc" stroke="#999"/>
+    <text x="490" y="182" text-anchor="middle" font-family="Times New Roman" font-size="16">CHFOA Decision Cycle</text>
+    <text x="490" y="208" text-anchor="middle" font-family="Times New Roman" font-size="14">Score → Filter → Deliberate → Enact → Monitor → Learn</text>
+    <text x="490" y="230" text-anchor="middle" font-family="Times New Roman" font-size="14">Collective flourishing optimized under ethical constraints</text>
+  </svg>
