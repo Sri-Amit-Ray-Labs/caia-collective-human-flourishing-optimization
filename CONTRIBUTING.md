@@ -1,4 +1,4 @@
-# Contributing to CHFOA
+# Contributing to CHFOA - Collective Human Flourishing Optimized AI Algorithm
 
 Thank you for your interest in contributing to the **Collective Human Flourishing Optimized Algorithm (CHFOA)** project.
 
