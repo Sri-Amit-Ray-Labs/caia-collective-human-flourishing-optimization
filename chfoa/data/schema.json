@@ -1,0 +1,20 @@
+{
+  "description": "Synthetic schema for CHFOA benchmarking",
+  "fields": [
+    "context_id",
+    "domain",
+    "stakeholder_group",
+    "action_type",
+    "vulnerability_weight",
+    "task_utility",
+    "physical_health_delta",
+    "trust_delta",
+    "equity_delta",
+    "learning_delta",
+    "social_connection_delta",
+    "observed_flourishing_score",
+    "observed_harm_indicator",
+    "reviewer_feedback",
+    "delayed_outcome_score"
+  ]
+}
